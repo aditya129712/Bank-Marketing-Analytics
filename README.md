@@ -15,4 +15,4 @@ Architecture of the Bank Marketing Analytics
 ![image](https://user-images.githubusercontent.com/54885297/230936392-59df36be-b173-4abb-8430-165d4aaa9f0a.png)
 
 
-
+Approach-The detailed architecture of the Bank Marketing Analytics has been discussed in the above architecture diagram which gives a overview of the step by step process of the project which gives an idea about flow of the data from original sources to database, then exporting the data from database to importing the data into jupyter notebook by using pandas library for data cleaning process, then for visualize the data, visualization library such Matplotlib and seaborn is used for the purpose and pandas library is used for Feature engineering. Then scikit learn library is used for feature selection , model training, hyperparameter tuning and model evaluation of the data. And finally, deploying the trained data into Power Bi for creating an interactive dashboard.
